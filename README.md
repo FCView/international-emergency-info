@@ -38,7 +38,7 @@ This works on all Apple iPhones:
 
 # How to call another country from a US or Canadian cell phone
 
-**North American Numbering Plan (NANP):** This includes Canada, US, and nearly all Caribbean countries.
+[**North American Numbering Plan (NANP):**](https://en.wikipedia.org/wiki/North_American_Numbering_Plan) This includes Canada, US, and nearly all Caribbean countries.
 
 - For countries **inside** the NANP: Dial the 10-digit phone number.
 
@@ -48,7 +48,7 @@ This works on all Apple iPhones:
 
 # How to call another country from a US or Canadian land line
 
-**North American Numbering Plan (NANP):** This includes Canada, US, and nearly all Caribbean countries.
+[**North American Numbering Plan (NANP):**](https://en.wikipedia.org/wiki/North_American_Numbering_Plan) This includes Canada, US, and nearly all Caribbean countries.
 
 - For countries **inside** the NANP: Dial the 10-digit phone number.
 
