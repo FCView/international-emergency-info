@@ -40,25 +40,45 @@ This works on all Apple iPhones:
 
 - **Android 11 and earlier:** Emergency SOS is not available. The local emergency services number must be dialed, but in a lot of cases, dialing 911 should still trigger the phone to make a general "emergency" call that will be interpreted by the cell tower they connect to.
 
-# How to call another country from a US or Canadian cell phone
+# Calling another country (from home or while you are there)
 
-[**North American Numbering Plan (NANP):**](https://en.wikipedia.org/wiki/North_American_Numbering_Plan) This includes Canada, US, and nearly all Caribbean countries.
+### From a US or Canadian cell phone
+
+- [**North American Numbering Plan (NANP):**](https://en.wikipedia.org/wiki/North_American_Numbering_Plan) This includes Canada, US, and nearly all Caribbean countries.
 
 - For countries **inside** the NANP: Dial the 10-digit phone number.
 
 - For countries **outside** the NANP: Dial "+" and then the country code, then the phone number.
 
-<em>Example, Mexico is NOT in the NANP and their country code is 52. So, on your cell phone, dial +52 xx xxxx-xxxx.</em>
+  - <em>Example, Mexico is NOT in the NANP and their country code is 52. So, on your cell phone, dial +52 xx xxxx-xxxx.</em>
 
-# How to call another country from a US or Canadian land line
+### From a US or Canadian land line
 
-[**North American Numbering Plan (NANP):**](https://en.wikipedia.org/wiki/North_American_Numbering_Plan) This includes Canada, US, and nearly all Caribbean countries.
+- [**North American Numbering Plan (NANP):**](https://en.wikipedia.org/wiki/North_American_Numbering_Plan) This includes Canada, US, and nearly all Caribbean countries.
 
-- For countries **inside** the NANP: Dial the 10-digit phone number.
+- For countries **inside** the NANP: Dial 1 and then the 10-digit phone number.
 
 - For countries **outside** the NANP: Dial "011" and then the country code, then phone number.
 
-<em>Example, Mexico is NOT in the NANP and their country code is 52. So, on your land line, dial 011 52 xx xxxx-xxxx.</em>
+  - <em>Example, Mexico is NOT in the NANP and their country code is 52. So, on your land line, dial 011 52 xx xxxx-xxxx.</em>
+
+# Calling home while you are in another country
+
+### From your US or Canadian cell phone while abroad
+
+- [**North American Numbering Plan (NANP):**](https://en.wikipedia.org/wiki/North_American_Numbering_Plan) This includes Canada, US, and nearly all Caribbean countries.
+
+- For countries **inside** the NANP: Dial +1 and then the 10-digit phone number (tapping on a contact should handle this automatically).
+
+- For countries **outside** the NANP: Dial +1 and then the 10-digit phone number (tapping on a contact should handle this automatically). In some cases, you may need to dial that country's exit code (usually 00) and then 1 and then the 10-digit phone number.
+
+### From a landline while abroad
+
+- [**North American Numbering Plan (NANP):**](https://en.wikipedia.org/wiki/North_American_Numbering_Plan) This includes Canada, US, and nearly all Caribbean countries.
+
+- For countries **inside** the NANP: Dial 1 and then the 10-digit phone number (tapping on a contact should handle this automatically).
+
+- For countries **outside** the NANP: Dial that country's exit code (usually 00) and then 1 and then the 10-digit phone number.
 
 # Format
 
