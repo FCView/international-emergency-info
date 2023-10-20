@@ -12,7 +12,7 @@ This data was collected from either the US Embassy website, or the Canadian Emba
 
 Additionally, this wikipedia page was referenced when no information was available at the embassy websites. However, data here was confirmed from news sources or local residents when able.
 
-[Wikipedia: List of emergency telephone numbers](https://en.wikipedia.org/wiki/List_of_emergency_telephone_numbers#See_also)
+[Wikipedia: List of emergency telephone numbers](https://en.wikipedia.org/wiki/List_of_emergency_telephone_numbers)
 
 **WARNING:** This information may not be up-to-date and should be verified before using in any projects as the information may be wrong or no longer current.
 
