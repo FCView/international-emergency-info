@@ -2,6 +2,8 @@
 
 Local emergency services phone numbers and US and Canadian Embassy info for each country.
 
+<em>Note: Some territories are included in this data.</em>
+
 This data was collected from either the US Embassy website, or the Canadian Embassy website. In cases of discrepancies, further searching for local news articles and other public sources of data (eg - local government websites) were used to determine current info. In some cases, local residents were used to confirm the emergency services phone numbers.
 
 [US Embassy Website](https://www.usembassy.gov/)
@@ -14,11 +16,13 @@ Additionally, this wikipedia page was referenced when no information was availab
 
 **WARNING:** This information may not be up-to-date and should be verified before using in any projects as the information may be wrong or no longer current.
 
-# How to call for an emergency from your cell phone
+# How to call for an emergency from your US or Canadian cell phone
 
 ### Emergency SOS
 
-In nearly all cases, you can use your device's **Emergency SOS** feature:
+- **Primary:** In nearly all countries, you can use your device's **Emergency SOS** feature.
+- **Secondary:** In nearly all countries, you can just dial 911 and the system will attempt to route to local emergency services.
+- **Backup:** If neither of those work, then you'll need to dial the local emergency services number. If it doesn't work on your cell phone, then you'll need to find a local land line or borrow a phone from a local.
 
 ### Apple ([Use Emergency SOS on your iPhone](https://support.apple.com/en-us/HT208076))
 
@@ -44,7 +48,7 @@ This works on all Apple iPhones:
 
 - For countries **outside** the NANP: Dial "+" and then the country code, then the phone number.
 
-<em>For example, Mexico is NOT in the NANP and their country code is 52. On your cell phone, dial +52 xx xxxx-xxxx.</em>
+<em>Example, Mexico is NOT in the NANP and their country code is 52. So, on your cell phone, dial +52 xx xxxx-xxxx.</em>
 
 # How to call another country from a US or Canadian land line
 
@@ -54,7 +58,7 @@ This works on all Apple iPhones:
 
 - For countries **outside** the NANP: Dial "011" and then the country code, then phone number.
 
-<em>For example, Mexico's country code is 52. On your land line, dial 011 52 xx xxxx-xxxx.</em>
+<em>Example, Mexico is NOT in the NANP and their country code is 52. So, on your land line, dial 011 52 xx xxxx-xxxx.</em>
 
 # Format
 
