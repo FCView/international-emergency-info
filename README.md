@@ -1,6 +1,6 @@
 ### WARNING
 
-This info is provided as is, and while I try to keep it updated, the info may change or be inaccurate. Please report any information or send a Pull Request with the changes.
+This info is provided as is, and while I try to keep it updated, the info may change or be inaccurate. Please report any wrong or inaccurate info or send a Pull Request with the changes.
 
 # International Emergency Info
 
