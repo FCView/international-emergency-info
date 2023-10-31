@@ -1,3 +1,7 @@
+### WARNING
+
+This info is provided as is, and while I try to keep it updated, the info may change or be inaccurate. Please report any information or send a Pull Request with the changes.
+
 # International Emergency Info
 
 Local emergency services phone numbers and US and Canadian Embassy info for each country.
@@ -10,7 +14,7 @@ This data was collected from either the US Embassy website, or the Canadian Emba
 
 [Canadian Embassy Website](https://www.international.gc.ca/)
 
-Additionally, this wikipedia page was referenced when no information was available at the embassy websites. However, data here was confirmed from news sources or local residents when able.
+Additionally, this wikipedia page was referenced when no information was available at the embassy websites. However, data here was confirmed from local government website, news sources, or in some cases, local residents.
 
 [Wikipedia: List of emergency telephone numbers](https://en.wikipedia.org/wiki/List_of_emergency_telephone_numbers)
 
